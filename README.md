@@ -45,6 +45,6 @@ If you're a developer, you can help me code by doing this:
 ...
 
 ## FAQ
-Q: Why Assembly-CSharp is closed-source?
-A: Assembly-CSharp is made by Substanial, so if i make It open-source then they will DMCA me, right?
++ Q: Why Assembly-CSharp is closed-source?
++ A: Assembly-CSharp is made by Substanial, so if i make It open-source then they will DMCA me, right?
    Also when decompile using dnSpy, some code will get error. **Btw** you can still edit code without decompile it.
