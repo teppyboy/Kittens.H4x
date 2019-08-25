@@ -27,7 +27,7 @@ If you're a developer, you can help me code by doing this:
 + Clone this project
 + Edit Assembly-CSharp.dll (C#) (See the FAQ for why i don't release the Assembly-CSharp.dll source code)
 + Copy Assembly-CSharp.dll to MainFiles
-+ IMPORTANT: Please read [CONTRIBUTING.md](https://gist.github.com/idk) for details on our code of conduct, and the process for submitting pull requests to us.
++ IMPORTANT: Please read [CONTRIBUTING.md](https://github.com/teppyboy/Kittens.H4x/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 + Make a pull request.
 + Wait to be approved and i'll credit you :D
 ```
