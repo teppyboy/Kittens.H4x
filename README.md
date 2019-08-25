@@ -4,8 +4,8 @@ This project contains Kittens.H4x APK files.
 
 ## Getting Started
 
-In "Releases" folder there will be a stable Kittens.H4x version (No unfixable bug at all)
-In "Debug" folder there will be a bleeding-edge version (sometimes you can't play because bugs.)
++ In "Releases" folder there will be a stable Kittens.H4x version (No unfixable bug at all)
++ In "Debug" folder there will be a bleeding-edge version (sometimes you can't play because bugs.)
 
 ### Install
 
@@ -37,6 +37,7 @@ If you're a developer, you can help me code by doing this:
 ...
 + See The Future (any) & Alter The Future (any) will be Alter The Future x8 (if you use that card)
 + Draw Exploding Kitten no longer needs to Defuse (like Streaking Kitten but this can hold **Mutiple** Exploding Kittens
+...
 
 ## Bug
 
