@@ -22,7 +22,6 @@ To install Kittens.H4x you can follow these step below:
 
 If you're a developer, you can help me code by doing this:
 
-```
 + Grab the latest apk (Debug or release btw debug is more last version)
 + Clone this project
 + Edit Assembly-CSharp.dll (C#) (See the FAQ for why i don't release the Assembly-CSharp.dll source code)
@@ -30,21 +29,12 @@ If you're a developer, you can help me code by doing this:
 + IMPORTANT: Please read [CONTRIBUTING.md](https://github.com/teppyboy/Kittens.H4x/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 + Make a pull request.
 + Wait to be approved and i'll credit you :D
-```
 
 ## Features
-
-...
 + See The Future (any) & Alter The Future (any) will be Alter The Future x8 (if you use that card)
 + Draw Exploding Kitten no longer needs to Defuse (like Streaking Kitten but this can hold **Mutiple** Exploding Kittens
-...
-
 ## Bug
-
-...
 + After draw Exploding Kitten, you need to use an card to unlock Draw or Skip draw. (Except for Shuffle won't work)
-...
-
 ## FAQ
 + Q: Why Assembly-CSharp is closed-source?
 + A: Assembly-CSharp is made by Substanial, so if i make It open-source then they will DMCA me, right?
