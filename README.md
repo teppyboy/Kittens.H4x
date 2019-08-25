@@ -1,5 +1,5 @@
 # Kittens.H4x
-(https://raw.githubusercontent.com/teppyboy/Kittens.H4x/master/Logo.png)
+[Icon](Icon.png)
 This project contains Kittens.H4x APK files.
 
 ## Getting Started
